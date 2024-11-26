@@ -1,6 +1,6 @@
 # Privacy Policy for Plant Doctor
 
-Last updated: 26/11/24
+Last updated: 2024-11-26
 
 ## Camera Permission Usage
 
